@@ -873,6 +873,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [IBM Bee](https://github.com/i-am-bee/bee-agent-framework) - The framework for building scalable agentic applications.
 - [IntelliAgent](https://github.com/aws-samples/Intelli-Agent) - Chatbot Portal with Agent: Streamlined Workflow for Building Agent-Based Applications.
 - [LangChain Agents](https://github.com/langchain-ai/langchain) - Build context-aware reasoning applications.
+- [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview) - Microsoft's unified open-source framework combining AutoGen and Semantic Kernel, designed for building AI agents and multi-agent workflows in .NET and Python, offering AI agents with LLM support and graph-based workflows for complex multi-step tasks [docs](https://learn.microsoft.com/en-us/agent-framework/overview/agent-framework-overview)
 - [Microsoft Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A Generalist Multi-Agent System for Solving Complex Tasks.
 - [OpenAI Swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [Phidata](https://github.com/phidatahq/phidata) - Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
