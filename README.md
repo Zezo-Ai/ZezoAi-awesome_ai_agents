@@ -213,6 +213,7 @@ There are many repositories to get started learning AI agents (thanks to [awesom
 - [SWE Agent](https://github.com/princeton-nlp/swe-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. [github](https://github.com/princeton-nlp/swe-agent)
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt) - Agent techniques to augment your LLM and push it beyond its limits. [github](https://github.com/alaeddine-13/thinkgpt)
 - [Vision agent](https://github.com/landing-ai/vision-agent) - Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. [github](https://github.com/landing-ai/vision-agent)
+- [WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS) - Self-hosted wallet-as-a-service for AI agents with multi-chain support (EVM + Solana), DeFi operations (swap, bridge, staking, lending), 3-tier security, and MCP server with 30+ tools. [github](https://github.com/minhoyoo-iotrust/WAIaaS)
 - [Anthropic](https://www.anthropic.com/) - Anthropic's new suite of Claud 3 models improves AI agents with superior reasoning, rapid responses, and diverse cognitive capabilities without compromising user privacy [website](https://www.anthropic.com/) | [docs](https://docs.anthropic.com/claude/)
 - [AnyBiz](https://anybiz.io) - AnyBiz offers AI-driven sales agents that enhance sales strategies through intelligent automation, continuous learning, and hyper-personalization, operating 24/7 without breaks [website](https://anybiz.io)
 - [Anyscale](https://www.anyscale.com/) - The Anyscale platform utilizes large language models (LLMs) for summarization, comparing the summarization quality of human, Llama 2 70b, and GPT-4, with GPT-4 demonstrating superior performance [website](https://www.anyscale.com/) | [docs](https://docs.anyscale.com/)
@@ -530,7 +531,7 @@ The key tools for building AI agents include benchmarks (to evaluate performance
 - [Overcooked_Ai_Llm](https://github.com/bzeng2188/overcooked_ai_llm) - Research with LLM multi agent planning on OvercookedAI benchmark.
 - [Pharmasimtext-Os-Llms](https://github.com/epfl-ml4ed/PharmaSimText-OS-LLMs) - This is a repository including the benchmark and agents included in an under review submission to JEDM 2025.
 - [R-Judge](https://github.com/Lordog/R-Judge) - R-Judge - Benchmarking Safety Risk Awareness for LLM Agents (EMNLP Findings 2024)
-- [Safeagentbench](https://github.com/shengyin1224/SafeAgentBench) - Codes for paper "SafeAgentBench - A Benchmark for Safe Task Planning of \\ Embodied LLM Agents"
+- [Safeagentbench](https://github.com/shengyin1224/SafeAgentBench) - Codes for paper "SafeAgentBench - A Benchmark for Safe Task Planning of \ Embodied LLM Agents"
 - [Shampoosalesagent](https://github.com/jackfsuia/ShampooSalesAgent) - A minimal LLM sales agent framework for sales agent fast deployment and benchmark. Support OpenAI models, Claude, HuggingFace models, Gem…
 - [Shortcutsbench](https://github.com/EachSheep/ShortcutsBench) - ShortcutsBench - A Large-Scale Real-World Benchmark for API-Based Agents
 - [Sim-Court](https://github.com/Miracle-2001/Sim-Court) - BenCourt - A Benchmark and Framework for Court Simulation using LLM-based Agents
